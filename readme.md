@@ -2,7 +2,7 @@
 
 Un petit clone de Cookie Clicker en Python pour m'habituer à travailler avec les objets. 
 
-Image opensource.
+Image libre de droit.
 
 # Requierments
 
