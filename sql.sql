@@ -1,0 +1,6 @@
+BEGIN TRANSACTION;
+CREATE TABLE `user` (
+	`points`	NUMERIC
+);
+INSERT INTO `user` VALUES (1);
+COMMIT;
